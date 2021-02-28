@@ -1,3 +1,7 @@
 title: Welcome to my page!
 
+author:
+  name: Nou Yang
+  email: nouchengy@gmail.com
+
 theme: jekyll-theme-slate
