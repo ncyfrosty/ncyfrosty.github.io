@@ -1,4 +1,1 @@
----
-layout: home
----
-Home Page
+# Home Page
