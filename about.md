@@ -1,4 +1,5 @@
-layout: page
+---
 title: About
-
-About page
+layout: page
+filename: about.md
+---
