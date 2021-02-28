@@ -1,4 +1,3 @@
 title: Welcome to my page!
 
-markdown: kramdown
-theme: slate
+theme: jekyll-theme-slate
