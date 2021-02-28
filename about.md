@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /https://ncyfrosty.github.io/about/
 ---
 
 # About
