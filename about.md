@@ -1,3 +1,4 @@
-#About page
+layout: page
+title: About
 
-Testing about page
+About page
